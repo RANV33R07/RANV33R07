@@ -1,4 +1,4 @@
-<p><img align=="right" alt="svg" src = "https://github.com/RANV33R07/RANV33R07/blob/main/matrix.svg" width="500" height="320" /></p>
+<p><img align=="right" alt="svg" src = "https://github.com/RANV33R07/RANV33R07/blob/main/matrix.svg" width="1000" height="320" /></p>
 <h1 align="center">Hi 👋, I'm Ranveer Singh</h1>
 <h3 align="center">Self-motivated and hardworking fresher.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
