@@ -42,28 +42,6 @@
 
 ---
 
-## Projects
-
-### [Movie Recommendation System](https://github.com/RANV33R07/Movie-Recommendation-System)
-- Technologies: `Python`, `Pandas`, `Scikit-Learn`, `NLP`, `CountVectorizer`, `Cosine Similarity`
-- Features: Provides personalized movie recommendations based on content using metadata analysis.
-
-### [Visual Damage Assessment System](https://github.com/RANV33R07/Damage-Estimator-for-Automobiles)
-- Technologies: `Python`, `PyTorch`, `LabelIMG`, `Nvidia Jetson Nano`
-- Features: AI-based vehicle damage detection, improving inspection speed by 50%, with 93% accuracy.
-
----
-
-## ⚙️ Technical Skills
-
-- **Languages**: Python, C/C++, HTML/CSS, SQL, MySQL
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Machine Learning & AI**: Logistic Regression, Linear Regression, K-Means Clustering, PCA, Random Forest, Decision Trees, LLM, NLP, Deep Learning
-- **Frameworks & Tools**: TensorFlow, PyTorch, FastAPI, Docker, SQLAlchemy, GitHub, Pydantic, Alembic
-- **Deployment & Testing**: Heroku, Nginx, Gunicorn, pytest, Docker Compose, CI/CD (GitHub Actions), JWT
-
----
-
 ## 👩‍💻 IDE 
 ![Top Graph](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
