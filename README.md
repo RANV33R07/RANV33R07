@@ -33,12 +33,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BTech in Artificial Intelligence** from SAGE University, Indore
 - 🧠 Passionate about **Machine Learning, NLP**, and **Deep Learning**
-- 🌱 Currently exploring **LLM-based systems** and working with models like **Falcon 7B** at **ISRO**
-- 🚀 Actively learning **transformers, model fine-tuning**, and **AI-backend**
-- 🤖 Developing **document-based QA systems** and **generative AI tools** for real-world applications
+- 🌱 Currently exploring **LLMs, model fine-tuning**, and **transformers**
+- 🚀 Actively working on AI-backend development and real-world AI projects
+- 🤖 Always looking to collaborate on open-source projects and learn new technologies
 - 📫 Reach me at: **ranveer072002@gmail.com**
+
 
 ---
 
